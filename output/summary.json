@@ -1,0 +1,12 @@
+{
+    "totalStudents": 5,
+    "avgAttendance": 82.0,
+    "avgMarks": 70.0,
+    "passCount": 4,
+    "failCount": 1,
+    "top3Students": [
+        "Eva",
+        "Alice",
+        "David"
+    ]
+}

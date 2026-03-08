@@ -1,0 +1,6 @@
+studentId,name,attendancePercent,avgMarks,status
+1,Alice,95,85,PASS
+2,Bob,70,60,PASS
+3,Charlie,65,40,FAIL
+4,David,88,75,PASS
+5,Eva,92,90,PASS
